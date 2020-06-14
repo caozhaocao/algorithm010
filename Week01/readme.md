@@ -1,4 +1,4 @@
-#一、 LeetCode二个题目  
+# 一、 LeetCode二个题目  
 ## leetcode 26. 删除排序数组中的重复项  
 ```js
 class Solution:  
